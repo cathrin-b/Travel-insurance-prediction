@@ -1,6 +1,0 @@
-Algorithm,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
-Gradient Boosting,81.91,88.89,56.34,68.97
-Random Forest,79.9,79.81,58.45,67.48
-Logistic Regression,76.38,74.49,51.41,60.83
-Decision Tree,76.38,73.08,53.52,61.79
-KNN,74.62,66.4,58.45,62.17
